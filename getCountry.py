@@ -1,3 +1,5 @@
+#Basic introduction:
+#https://sites.google.com/view/cshenportfolio/computer-science-studies
 from urllib.request import urlopen
 from urllib.request import quote
 from bs4 import BeautifulSoup as BS
