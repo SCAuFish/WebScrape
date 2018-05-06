@@ -1,4 +1,3 @@
-#Test
 #Basic introduction:
 #https://sites.google.com/view/cshenportfolio/computer-science-studies
 from urllib.request import urlopen
